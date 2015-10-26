@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445768872 source:d:\c++ - projects\gregoriancalendar\main.cpp
+	<iostream>
+	<string>
+	<queue>
+

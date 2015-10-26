@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445770263 source:d:\c++ - projects\allprimenumberston\main.cpp
+	<iostream>
+	<math.h>
+
