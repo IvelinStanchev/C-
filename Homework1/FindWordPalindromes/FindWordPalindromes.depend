@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446841908 source:d:\c++ - projects\homework1\findwordpalindromes\main.cpp
+	<iostream>
+	<string>
+
