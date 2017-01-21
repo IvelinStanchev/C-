@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481570849 source:d:\c++ - projects\findmedian\findmedian\main.cpp
+	<iostream>
+	<algorithm>
+

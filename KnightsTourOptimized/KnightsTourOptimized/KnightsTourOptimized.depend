@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481398148 source:d:\c++ - projects\knightstouroptimized\knightstouroptimized\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

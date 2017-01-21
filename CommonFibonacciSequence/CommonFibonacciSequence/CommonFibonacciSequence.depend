@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477820542 source:d:\c++ - projects\commonfibonaccisequence\commonfibonaccisequence\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+

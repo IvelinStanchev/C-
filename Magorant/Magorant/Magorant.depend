@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481225639 source:d:\c++ - projects\magorant\magorant\main.cpp
+	<iostream>
+	<map>
+

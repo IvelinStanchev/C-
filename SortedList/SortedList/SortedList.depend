@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481464721 source:d:\c++ - projects\sortedlist\sortedlist\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

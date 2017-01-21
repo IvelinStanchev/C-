@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482784833 source:d:\c++ - projects\boxesmovement\boxesmovement\main.cpp
+	<iostream>
+	<bitset>
+	<vector>
+	<sstream>
+	<math.h>
+

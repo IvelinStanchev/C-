@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1480964936 source:d:\c++ - projects\bisectionmethod\bisectionmethod\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<math.h>
+

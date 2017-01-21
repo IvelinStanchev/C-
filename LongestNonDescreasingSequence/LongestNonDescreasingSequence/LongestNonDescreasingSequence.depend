@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482440379 source:d:\c++ - projects\longestnondescreasingsequence\longestnondescreasingsequence\main.cpp
+	<iostream>
+	<vector>
+

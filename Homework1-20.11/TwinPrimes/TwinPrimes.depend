@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447491670 source:d:\c++ - projects\homework1-20.11\twinprimes\main.cpp
+	<iostream>
+	<math.h>
+

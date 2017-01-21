@@ -1,0 +1,3 @@
+1|Nicolas Cage|07.01.1964|1|Actor
+2|Nicolas Cage 2|07.01.1964|1|Actor
+3|Pesho Pesho|07.01.1964|1|Director

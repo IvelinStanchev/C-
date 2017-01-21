@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1481383623 source:d:\c++ - projects\sumvariations\sumvariations\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<vector>
+	<sstream>
+

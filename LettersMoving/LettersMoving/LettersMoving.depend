@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1481147129 source:d:\c++ - projects\lettersmoving\lettersmoving\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+

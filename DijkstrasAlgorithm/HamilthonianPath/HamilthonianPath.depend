@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484382066 source:d:\c++ - projects\dijkstrasalgorithm\hamilthonianpath\main.cpp
+	<iostream>
+	<stdio.h>
+

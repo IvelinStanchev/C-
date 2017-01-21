@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484945299 source:d:\c++ - projects\differentexecutions\differentexecutions\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<algorithm>
+	<math.h>
+	<map>
+

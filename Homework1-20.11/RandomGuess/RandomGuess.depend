@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447496846 source:d:\c++ - projects\homework1-20.11\randomguess\randomguess.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

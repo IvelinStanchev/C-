@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1446913948 source:d:\c++ - projects\homework1\carddeck\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<ctime>
+
